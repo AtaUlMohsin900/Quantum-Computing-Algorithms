@@ -10,6 +10,7 @@ import lib.helper as helper
 import lib.ops as ops
 import lib.state as state
 
+# make function for operators
 def make_f(d: int = 3, r: int = 1):
   """Construct function that will return 1 for 'solutions' bits."""
 
